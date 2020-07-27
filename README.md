@@ -56,8 +56,8 @@ trained
 ### Results
 
 **Breast Cancer:**
-|Sample | Size |Accuracy | AUC | F1 Score | Recall | Precision |
-| ------| ----- |----- |----- |----- |----- |----- |
+|Sample Size |Accuracy | AUC | F1 Score | Recall | Precision |
+| ----------- |----- |----- |----- |----- |----- |
 |20% |0.792 |0.81 |0.79 |0.79 |0.86|
 |40% |0.905 |0.91 |0.91 |0.91 |0.92|
 |60% |0.958 |0.96 |0.96 |0.96 |0.96|
