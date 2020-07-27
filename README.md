@@ -1,4 +1,4 @@
-#### Generic auxiliary tasks to learn features that help regularize the network using Auto-encoder
+## Generic auxiliary tasks to learn features that help regularize the network using Auto-encoder
 
 Autoencoders play a basic role in supervised and
 unsupervised learning and in deep learning architectures for
